@@ -25,4 +25,5 @@ function getDaySwitch(day){
             break;
     }
 }
+
 console.log(getDaySwitch(3)); // "Mercredi"
